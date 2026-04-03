@@ -1,0 +1,30 @@
+C:\Users\przem\source\repos\ClassList\ClassList\bin\Debug\net6.0\ClassList.exe
+C:\Users\przem\source\repos\ClassList\ClassList\bin\Debug\net6.0\ClassList.deps.json
+C:\Users\przem\source\repos\ClassList\ClassList\bin\Debug\net6.0\ClassList.runtimeconfig.json
+C:\Users\przem\source\repos\ClassList\ClassList\bin\Debug\net6.0\ClassList.dll
+C:\Users\przem\source\repos\ClassList\ClassList\bin\Debug\net6.0\ClassList.pdb
+C:\Users\przem\source\repos\ClassList\ClassList\obj\Debug\net6.0\ClassList.csproj.AssemblyReference.cache
+C:\Users\przem\source\repos\ClassList\ClassList\obj\Debug\net6.0\ClassList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\przem\source\repos\ClassList\ClassList\obj\Debug\net6.0\ClassList.AssemblyInfoInputs.cache
+C:\Users\przem\source\repos\ClassList\ClassList\obj\Debug\net6.0\ClassList.AssemblyInfo.cs
+C:\Users\przem\source\repos\ClassList\ClassList\obj\Debug\net6.0\ClassList.csproj.CoreCompileInputs.cache
+C:\Users\przem\source\repos\ClassList\ClassList\obj\Debug\net6.0\ClassList.dll
+C:\Users\przem\source\repos\ClassList\ClassList\obj\Debug\net6.0\refint\ClassList.dll
+C:\Users\przem\source\repos\ClassList\ClassList\obj\Debug\net6.0\ClassList.pdb
+C:\Users\przem\source\repos\ClassList\ClassList\obj\Debug\net6.0\ClassList.genruntimeconfig.cache
+C:\Users\przem\source\repos\ClassList\ClassList\obj\Debug\net6.0\ref\ClassList.dll
+C:\Users\egzamin\Desktop\Projekt do zadania\Projekt do testów\ClassList\ClassList\bin\Debug\net6.0\ClassList.exe
+C:\Users\egzamin\Desktop\Projekt do zadania\Projekt do testów\ClassList\ClassList\bin\Debug\net6.0\ClassList.deps.json
+C:\Users\egzamin\Desktop\Projekt do zadania\Projekt do testów\ClassList\ClassList\bin\Debug\net6.0\ClassList.runtimeconfig.json
+C:\Users\egzamin\Desktop\Projekt do zadania\Projekt do testów\ClassList\ClassList\bin\Debug\net6.0\ClassList.dll
+C:\Users\egzamin\Desktop\Projekt do zadania\Projekt do testów\ClassList\ClassList\bin\Debug\net6.0\ClassList.pdb
+C:\Users\egzamin\Desktop\Projekt do zadania\Projekt do testów\ClassList\ClassList\obj\Debug\net6.0\ClassList.csproj.AssemblyReference.cache
+C:\Users\egzamin\Desktop\Projekt do zadania\Projekt do testów\ClassList\ClassList\obj\Debug\net6.0\ClassList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egzamin\Desktop\Projekt do zadania\Projekt do testów\ClassList\ClassList\obj\Debug\net6.0\ClassList.AssemblyInfoInputs.cache
+C:\Users\egzamin\Desktop\Projekt do zadania\Projekt do testów\ClassList\ClassList\obj\Debug\net6.0\ClassList.AssemblyInfo.cs
+C:\Users\egzamin\Desktop\Projekt do zadania\Projekt do testów\ClassList\ClassList\obj\Debug\net6.0\ClassList.csproj.CoreCompileInputs.cache
+C:\Users\egzamin\Desktop\Projekt do zadania\Projekt do testów\ClassList\ClassList\obj\Debug\net6.0\ClassList.dll
+C:\Users\egzamin\Desktop\Projekt do zadania\Projekt do testów\ClassList\ClassList\obj\Debug\net6.0\refint\ClassList.dll
+C:\Users\egzamin\Desktop\Projekt do zadania\Projekt do testów\ClassList\ClassList\obj\Debug\net6.0\ClassList.pdb
+C:\Users\egzamin\Desktop\Projekt do zadania\Projekt do testów\ClassList\ClassList\obj\Debug\net6.0\ClassList.genruntimeconfig.cache
+C:\Users\egzamin\Desktop\Projekt do zadania\Projekt do testów\ClassList\ClassList\obj\Debug\net6.0\ref\ClassList.dll
